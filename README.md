@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Vinicius Ferrari 🚀
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/viniciushfc/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https:///www.linkedin.com/in/viniciushfc/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/viniciusferraric/)
 
 ![Ferrari GitHub stats](https://github-readme-stats.vercel.app/api?username=Viniciushfc&show_icons=true&theme=tokyonight)
