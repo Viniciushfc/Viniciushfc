@@ -11,7 +11,7 @@
 
 ### 💡 Sobre mim
 
-Desenvolvedor backend com vivência em banco de dados e frontend quando o projeto pede. Gosto de escrever código que faz sentido — simples, direto e fácil de manter.
+Desenvolvedor backend com vivência em banco de dados e frontend quando o projeto pede. Gosto de escrever código que faz sentido, direto e fácil de manter.
 
 ---
 
